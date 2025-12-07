@@ -1,9 +1,9 @@
-📄 Resume Category Prediction (FastAPI + ML + Frontend)
+## 📄 Resume Category Prediction (FastAPI + ML + Frontend)
 
 A machine learning–powered web application that predicts the job category of a resume using text extraction and classification techniques.
 Built using FastAPI, Scikit-Learn, Jinja2 templates, and a modern HTML/CSS/JS frontend with drag-and-drop uploads.
 
-🚀 Features
+## 🚀 Features
 🔍 Resume Category Prediction
 
 Upload a resume (PDF, DOCX, or TXT) and the model predicts the most relevant job domain.
